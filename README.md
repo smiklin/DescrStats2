@@ -8,5 +8,6 @@ column with each row representing an observation.
 import DescStats as ds
 ds.DescrStats(‘datafile.txt’)
 ‘‘‘
+
 We have placed a sample data file (‘datafile.txt‘) in this repository. You can use
 this data file to test your
