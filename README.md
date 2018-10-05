@@ -1,4 +1,3 @@
-# DescrStats
 # Documentation for ‘DescrStats.py‘ and ‘DescrStats()‘ function
 This repository contains the Python module ‘DescrStats.py‘, which defines the
 function ‘DescrStats()‘. This function can be used by importing the module
